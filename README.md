@@ -28,3 +28,8 @@
 
 ## Conceptual Structure
 
+- The **root node** is the entry point of the hierarchy.
+- Each node maintains a list of children, allowing traversal and manipulation of the structure.
+- Dynamic insertion and deletion of nodes automatically update parent references.
+
+---
